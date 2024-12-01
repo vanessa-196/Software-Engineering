@@ -48,3 +48,6 @@ The e-commerce website allows customers to interact with the system and perform 
 
 10. **Manage User Accounts**:
     - Administrators handle the creation, deletion, or modification of user accounts.
+   
+![Use Case Diagram_E-Commerce Website drawio (2)](https://github.com/user-attachments/assets/02687a31-9507-42f5-aef1-321967915779)
+
